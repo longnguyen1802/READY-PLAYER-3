@@ -26,4 +26,3 @@ Ban đầu chỉ có gold và không có NFT nào
 Hiện tại t đang làm gacha và làm 1 minigame
 Ông làm 1 minigame đi ( đơn giản thôi gì cũng được )
 
-![image](https://user-images.githubusercontent.com/96562911/215487201-8f345fbc-4bef-4245-a5fb-d8e1a23e420c.png)
